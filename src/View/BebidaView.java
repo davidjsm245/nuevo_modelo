@@ -1,6 +1,4 @@
-package View_MTS;
-
-import View_MTS.*;
+package View;
 
 public class BebidaView extends javax.swing.JPanel {
 

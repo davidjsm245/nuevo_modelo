@@ -1,5 +1,5 @@
 
-package View_MTS;
+package View;
 
 public class BEBIDAPREVIEW extends javax.swing.JDialog {
 

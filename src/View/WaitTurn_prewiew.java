@@ -1,5 +1,5 @@
 
-package View_MTS;
+package View;
 
 
 public class WaitTurn_prewiew extends javax.swing.JFrame {

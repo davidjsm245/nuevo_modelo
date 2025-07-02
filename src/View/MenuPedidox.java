@@ -1,8 +1,7 @@
-package View_MTS;
+package View;
 
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
-import View_MTS.*;
 
 public class MenuPedidox extends javax.swing.JFrame {
 
